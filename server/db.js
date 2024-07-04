@@ -50,6 +50,5 @@ export const DATA = [
     "qatga",
     "kim u 😠",
     "kim bilansiz 🙄",
-    "👉👌",
     "❤️❤️❤️",
 ]
